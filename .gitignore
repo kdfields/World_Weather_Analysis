@@ -1,5 +1,6 @@
 # Adding config.py
-config.py
+geo_config.py
+weather_config.py
 
 # Adding Additional Files
 API_practice.ipynb
